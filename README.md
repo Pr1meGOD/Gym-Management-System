@@ -2,7 +2,7 @@
 <h3>Overview</h3>
 The Gym Management System is a Java-based console application designed to manage basic functionalities of a gym, including member management, payment tracking, and membership history.
 
-<h5>Features</h5>
+<h4>Features</h4>
 Add Member:
 
 Add new gym members with their details, including name, contact information, and membership type.
